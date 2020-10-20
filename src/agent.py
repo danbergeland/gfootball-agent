@@ -1,6 +1,6 @@
 import random
 
-class BasicAgent:
+class RandomAgent:
     def __init__(self, action_space_dim:int):
         self._action_space_dim = action_space_dim
 
